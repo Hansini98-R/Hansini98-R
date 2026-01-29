@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hansini Rathnayaka</h1>
-<h4 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Reading for Bachelor of Information and Communication Technology Honours)</h4>
+<h4 align="left">I'm graduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours)</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
